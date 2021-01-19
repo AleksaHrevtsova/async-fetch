@@ -1,0 +1,33 @@
+body {
+  background: black;
+  color: wheat;
+}
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.input {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+
+.gallery {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+}
+.more {
+  display: block;
+}
+.isHidden {
+  display: none;
+}
